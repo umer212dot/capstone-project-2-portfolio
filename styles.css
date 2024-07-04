@@ -1,0 +1,99 @@
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .smoke{
+    color: whitesmoke;
+  }
+  #illustration{
+      display: flex;
+      justify-content: center;
+      align-self: center;
+  }
+
+  #hero{
+      background-color: #0A2647;
+  }
+
+  .white , li{
+      color: white;
+  }
+
+  .cursive{
+    font-family: "Playwrite AU QLD", cursive;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .navbar-nav .nav-item {
+    margin-right: 100px;
+  }
+
+  .s-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    background: linear-gradient(145deg, #cdd8e7, #adb6c2);
+    height: 150px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+
+  h2 , h3 {
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+  }
+
+  .project-img{
+    object-fit: cover;
+    object-position: top;
+  }
+
+  .card{
+    height: 100%;
+  }
+
+  #pfp{
+    border-radius: 50%;
+  }
+
+  .force-align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .frame{
+    height: 330px;
+    width: 330px;
+    border: 10px solid snow;
+  }
+
+  .icons{
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .my-links{
+    text-decoration: none;
+    color: white;
+  }
+
+  #contact > li{
+    margin-bottom: 20px;
+  }
+
+  /* section{
+    padding-top: 100px;
+  } */
